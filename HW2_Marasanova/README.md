@@ -9,3 +9,4 @@
 - Екатерина Марасанова - team-lead - функция main_func, README.md
 - Иванкова Олеся - функция add, сложение
 - Ситькова Дарья - функция subtract, вычитание
+<img width="1920" height="1080" alt="созвон" src="https://github.com/user-attachments/assets/7e9d67a3-b935-4027-8bda-9baeb86b1c01" />
